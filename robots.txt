@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-29mbbs.plcwin.xyz/sitemap.xml
